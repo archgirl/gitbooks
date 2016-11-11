@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        "exercises",
+        "youtube",
+        "creativecommons",
+        "collapsible-chapters"
+    ]
+}
