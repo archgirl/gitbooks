@@ -1,14 +1,7 @@
 {
     "plugins": [
         "youtube",
-        "creativecommons",
         "collapsible-chapters"
     ],
-    "pluginsConfig": {
-        "fontsettings": {
-            "theme": "white",
-            "family": "sans",
-            "size": 2
-        }
-    }
+    "pluginsConfig": {}
 }
