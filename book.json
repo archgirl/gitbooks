@@ -1,7 +1,8 @@
 {
     "plugins": [
         "youtube",
-        "collapsible-chapters"
+        "collapsible-chapters",
+        "toggle-chapters"
     ],
     "pluginsConfig": {}
 }
